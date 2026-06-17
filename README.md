@@ -1,5 +1,5 @@
 # 🧑🏻 About Me:
-Hi, I'm Markos!<br>I am a Mathematics Graduate and a Junior Data Analyst.<br>Focused on building robust data pipelines and turning messy datasets into clear, interactive dashboards.<br><br>    🌍 Based in Greece.<br><br>    🔭 Passionate about Exploratory Data Analysis (EDA) and Data Storytelling.<br><br>    🧠 Currently deepening my knowledge in predictive modeling.<br><br>    📜 I believe that every dataset has a story; I just provide the translation.
+I am a Mathematics Graduate and a Junior Data Analyst.<br>Focused on building robust data pipelines and turning messy datasets into clear, interactive dashboards.<br><br>    🌍 Based in Greece.<br><br>    🔭 Passionate about Exploratory Data Analysis (EDA) and Data Storytelling.<br><br>    🧠 Currently deepening my knowledge in predictive modeling.<br><br>    📜 I believe that every dataset has a story; I just provide the translation.
 
 
 ## Socials:
